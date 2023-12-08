@@ -10,6 +10,6 @@ target 'Instagram' do
   pod 'FirebaseAuth', '10.3.0'
   pod 'FirebaseFirestore', '10.3.0'
   pod 'FirebaseStorage', '10.3.0'
-  pod 'FirebaseStrageUI', '12.3.0'
+  pod 'FirebaseStorageUI', '12.3.0'
 
 end
