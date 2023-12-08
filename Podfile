@@ -6,6 +6,10 @@ target 'Instagram' do
   use_frameworks!
 
   # Pods for Instagram
-  pod 'RealmSwift', '10.33.0'
+  pod 'FirebaseAnalytics', '10.3.0'
+  pod 'FirebaseAuth', '10.3.0'
+  pod 'FirebaseFirestore', '10.3.0'
+  pod 'FirebaseStorage', '10.3.0'
+  pod 'FirebaseStrageUI', '12.3.0'
 
 end
